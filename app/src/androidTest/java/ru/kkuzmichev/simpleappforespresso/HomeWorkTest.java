@@ -27,7 +27,11 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-@RunWith(AndroidJUnit4.class)
+import io.qameta.allure.android.runners.AllureAndroidJUnit4;
+
+//@RunWith(AndroidJUnit4.class)
+@RunWith(AllureAndroidJUnit4.class)
+
 public class HomeWorkTest {
 
     @Rule

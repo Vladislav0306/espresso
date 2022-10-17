@@ -1,0 +1,53 @@
+{
+    "name": "testOpenRightMenu",
+    "start": 1665984224459,
+    "stop": 1665984250120,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "2905d778-b113-4b4c-91c1-a84281eb596f",
+    "historyId": "a1670c47ddd7da369700f1a1c8737755",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.HomeWorkTest.testOpenRightMenu",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.HomeWorkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOpenRightMenu"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.HomeWorkTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(785)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
