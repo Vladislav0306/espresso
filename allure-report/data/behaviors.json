@@ -1,0 +1,1 @@
+{"uid":"b1a8273437954620fa374b796ffaacdd","name":"behaviors","children":[{"name":"testName","uid":"7d5dcef55cd8686d","parentUid":"b1a8273437954620fa374b796ffaacdd","status":"passed","time":{"start":1665986480729,"stop":1665986498191,"duration":17462},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}]}
