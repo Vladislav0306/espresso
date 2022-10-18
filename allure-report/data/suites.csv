@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Oct 17 08:23:44 EEST 2022","Mon Oct 17 08:24:10 EEST 2022","25661","","ru.kkuzmichev.simpleappforespresso.HomeWorkTest","","ru.kkuzmichev.simpleappforespresso.HomeWorkTest","testOpenRightMenu","testOpenRightMenu",""
+"passed","Tue Oct 18 20:32:25 EEST 2022","Tue Oct 18 20:32:48 EEST 2022","22770","","ru.kkuzmichev.simpleappforespresso.HomeWorkTest","","ru.kkuzmichev.simpleappforespresso.HomeWorkTest","testOpenRightMenu","testOpenRightMenu",""

@@ -1,7 +1,7 @@
 {
     "name": "testOpenRightMenu",
-    "start": 1665984224459,
-    "stop": 1665984250120,
+    "start": 1666114345835,
+    "stop": 1666114368605,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,7 +13,7 @@
     ],
     "parameters": [
     ],
-    "uuid": "2905d778-b113-4b4c-91c1-a84281eb596f",
+    "uuid": "18ee3bc5-c17b-41ce-a153-19be42e14799",
     "historyId": "a1670c47ddd7da369700f1a1c8737755",
     "fullName": "ru.kkuzmichev.simpleappforespresso.HomeWorkTest.testOpenRightMenu",
     "labels": [
@@ -39,7 +39,7 @@
         },
         {
             "name": "thread",
-            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(785)"
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(890)"
         },
         {
             "name": "framework",
